@@ -1,6 +1,5 @@
 # BX-Rename-Bot
 
-# BX-Rename-Bot
 This is a very simple Telegram Files Rename Bot by [@hellodarklord](https://t.me/hellodarklord).
 
 ## Features
